@@ -1,4 +1,3 @@
-layout_spectrum: 0.0519680199213326
 typography_spectrum: 0.9712060957681388
 color:
   brandStrength: 0.5953400880098343
@@ -11,4 +10,9 @@ color:
     - '#29D9C2'
     - '#BDF271'
     - '#FFFFA6'
+layout_spectrum: 0.0519680199213326
 name: DD's Empire
+navigation:
+  - name: BLOG
+    id: e00238b5-0b7e-488b-b061-d39e4abfe665
+    type: content
